@@ -12,7 +12,6 @@ SRC_REPO = "translation_pipeline"
 AUTHOR_EMAIL = "apurvabhusari@gmail.com"
 
 
-
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
