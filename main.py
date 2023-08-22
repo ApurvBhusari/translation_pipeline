@@ -48,7 +48,6 @@ except Exception as e:
         logger.exception(e)
         raise e
 
-
 STAGE_NAME = "Model Prediction stage"
 try: 
    logger.info(f"*******************")
