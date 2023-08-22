@@ -5,7 +5,6 @@ from src.translator.utils.common import get_size
 from pathlib import Path
 from src.translator.entity import DataIngestionConfig
 
-
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
         self.config = config
