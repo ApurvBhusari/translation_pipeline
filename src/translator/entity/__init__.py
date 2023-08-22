@@ -37,3 +37,5 @@ class ModelPredictionConfig:
     model_path: Path
     model_ckpt: Path
     
+
+
