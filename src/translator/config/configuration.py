@@ -3,7 +3,6 @@ from src.translator.utils.common import read_yaml, create_directories
 from src.translator.entity import (DataIngestionConfig,DataValidationConfig,DataTransformationConfig,ModelTrainerConfig,ModelPredictionConfig)
                                
 
-
 class ConfigurationManager:
     def __init__(
         self,
