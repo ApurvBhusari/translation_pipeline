@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "English-Hindi-Translator-Project"
-AUTHOR_USER_NAME = "Pratik94229"
-SRC_REPO = "translator"
-AUTHOR_EMAIL = "pratik.941@gmail.com"
+AUTHOR_USER_NAME = "ApurvBhusari"
+SRC_REPO = "translation_pipeline"
+AUTHOR_EMAIL = "apurvabhusari@gmail.com"
 
 
 
