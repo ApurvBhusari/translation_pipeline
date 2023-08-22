@@ -4,7 +4,6 @@ from src.translator.logging import logger
 from src.translator.config.configuration import ConfigurationManager
 from transformers import AutoTokenizer, TFAutoModelForSeq2SeqLM
 
-
 # prediction.py
 class PredictionPipeline:
     def __init__(self):

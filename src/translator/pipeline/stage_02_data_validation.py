@@ -2,7 +2,6 @@ from src.translator.config.configuration import ConfigurationManager
 from src.translator.components.data_validation import DataValiadtion
 from src.translator.logging import logger
 
-
 class DataValidationTrainingPipeline:
     def __init__(self):
         pass

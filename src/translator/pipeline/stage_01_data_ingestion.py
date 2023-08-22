@@ -3,7 +3,6 @@ from src.translator.components.data_ingestion import DataIngestion
 from src.translator.logging import logger
 
 
-
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass

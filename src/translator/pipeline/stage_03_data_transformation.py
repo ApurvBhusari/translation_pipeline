@@ -5,7 +5,6 @@ from src.translator.logging import logger
 from transformers import AutoTokenizer
 
 
-
 class DataTransformationTrainingPipeline:
     def __init__(self):
         pass

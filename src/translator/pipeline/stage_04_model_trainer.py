@@ -2,7 +2,6 @@ from src.translator.config.configuration import ConfigurationManager
 from src.translator.components.model_trainer import ModelTrainer
 from src.translator.logging import logger
 
-
 class ModelTrainerTrainingPipeline:
     def __init__(self):
         pass
