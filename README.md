@@ -160,7 +160,6 @@ ECR_REPOSITORY_NAME = simple-app
 
 For any inquiries or questions, please feel free to contact me at pratik.941@gmail.com.
 
-
 ## Conclusion
 
 This English to Hindi Translation project demonstrates the end-to-end process of setting up a translation system using the Hugging Face Transformers library. Each stage plays a crucial role in the successful execution of the project, from data ingestion and validation to model training and evaluation. The project showcases how to leverage powerful pre-trained models to achieve accurate translation results.
