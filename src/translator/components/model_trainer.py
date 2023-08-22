@@ -14,7 +14,6 @@ class ModelTrainer:
         self.config = config
 
 
-    
     def train(self):
         tokenized_datasets=load_from_disk(self.config.data_path)
         

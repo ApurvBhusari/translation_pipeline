@@ -10,7 +10,6 @@ class DataIngestion:
         self.config = config
 
 
-    
     def download_file(self):
         if not os.path.exists(self.config.source):
             logger.info("Downloading data")
